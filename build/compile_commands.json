@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/vidhyamurali/Documents/cbdc/CBDC_F22/build",
+  "command": "/usr/bin/clang++   -std=c++17 -Wall  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/main.dir/prototype.cpp.o -c /Users/vidhyamurali/Documents/cbdc/CBDC_F22/prototype.cpp",
+  "file": "/Users/vidhyamurali/Documents/cbdc/CBDC_F22/prototype.cpp"
+},
+{
+  "directory": "/Users/vidhyamurali/Documents/cbdc/CBDC_F22/build",
+  "command": "/usr/bin/clang++   -std=c++17 -Wall  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/main.dir/classes.cpp.o -c /Users/vidhyamurali/Documents/cbdc/CBDC_F22/classes.cpp",
+  "file": "/Users/vidhyamurali/Documents/cbdc/CBDC_F22/classes.cpp"
+},
+{
+  "directory": "/Users/vidhyamurali/Documents/cbdc/CBDC_F22/build",
+  "command": "/usr/bin/clang++   -std=c++17 -Wall  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/main.dir/invokeHamilton.cpp.o -c /Users/vidhyamurali/Documents/cbdc/CBDC_F22/invokeHamilton.cpp",
+  "file": "/Users/vidhyamurali/Documents/cbdc/CBDC_F22/invokeHamilton.cpp"
+}
+]

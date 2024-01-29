@@ -1,0 +1,260 @@
+Money available
+Create
+Transfer
+Transfer
+Transfer
+Transfer
+Money available
+Create
+Transfer
+Transfer
+Create
+Money available
+Transfer
+Money available
+Create
+Transfer
+Transfer
+Create
+Transfer
+Transfer
+Create
+Create
+Transfer
+Create
+Money available
+[*] Current State of Entities:
+{
+---0
+Id: wallet1.dat+mempool1.dat
+Type: Cen
+Balance: 9.99964e+08
+Bonds: 0
+---1
+Id: wallet2.dat+mempool2.dat
+Type: Com
+Balance: 22
+Bonds: 0
+---2
+Id: wallet3.dat+mempool3.dat
+Type: U
+Balance: 1317
+Bonds: 0
+---3
+Id: wallet4.dat+mempool4.dat
+Type: Com
+Balance: 10156
+Bonds: 0
+---4
+Id: wallet5.dat+mempool5.dat
+Type: U
+Balance: 3000
+Bonds: 0
+---5
+Id: wallet6.dat+mempool6.dat
+Type: Com
+Balance: 9738
+Bonds: 0
+---6
+Id: wallet7.dat+mempool7.dat
+Type: Com
+Balance: 10051
+Bonds: 0
+---7
+Id: wallet8.dat+mempool8.dat
+Type: U
+Balance: 1000
+Bonds: 0
+---8
+Id: wallet9.dat+mempool9.dat
+Type: U
+Balance: 1000
+Bonds: 0
+---9
+Id: wallet10.dat+mempool0.dat
+Type: U
+Balance: 1000
+Bonds: 0
+---10
+Id: wallet11.dat+mempool1.dat
+Type: U
+Balance: 1000
+Bonds: 0
+}
+[*] Ledger:
+{
+---0
+timestamp: now
+transaction: Generated money
+from: wallet1.dat+mempool1.dat
+to: wallet1.dat+mempool1.dat
+amount: 1e+09
+---1
+timestamp: now
+transaction: Generated money
+from: wallet1.dat+mempool1.dat
+to: wallet1.dat+mempool1.dat
+amount: 348
+---2
+timestamp: now
+transaction: Transfer money
+from: wallet1.dat+mempool1.dat
+to: wallet4.dat+mempool4.dat
+amount: 10000
+---3
+timestamp: now
+transaction: Transfer money
+from: wallet1.dat+mempool1.dat
+to: wallet3.dat+mempool3.dat
+amount: 1000
+---4
+timestamp: now
+transaction: Transfer money
+from: wallet1.dat+mempool1.dat
+to: wallet2.dat+mempool2.dat
+amount: 284
+---5
+timestamp: now
+transaction: Transfer money
+from: wallet4.dat+mempool4.dat
+to: wallet2.dat+mempool2.dat
+amount: 99
+---6
+timestamp: now
+transaction: Transfer money
+from: wallet2.dat+mempool2.dat
+to: wallet4.dat+mempool4.dat
+amount: 88
+---7
+timestamp: now
+transaction: Transfer money
+from: wallet2.dat+mempool2.dat
+to: wallet2.dat+mempool2.dat
+amount: 74
+---8
+timestamp: now
+transaction: Removed money
+from: wallet1.dat+mempool1.dat
+to: wallet1.dat+mempool1.dat
+amount: 135
+---9
+timestamp: now
+transaction: Transfer money
+from: wallet1.dat+mempool1.dat
+to: wallet5.dat+mempool5.dat
+amount: 1000
+---10
+timestamp: now
+transaction: Transfer money
+from: wallet2.dat+mempool2.dat
+to: wallet3.dat+mempool3.dat
+amount: 83
+---11
+timestamp: now
+transaction: Transfer money
+from: wallet2.dat+mempool2.dat
+to: wallet3.dat+mempool3.dat
+amount: 41
+---12
+timestamp: now
+transaction: Transfer money
+from: wallet1.dat+mempool1.dat
+to: wallet6.dat+mempool6.dat
+amount: 10000
+---13
+timestamp: now
+transaction: Transfer money
+from: wallet1.dat+mempool1.dat
+to: wallet5.dat+mempool5.dat
+amount: 1000
+---14
+timestamp: now
+transaction: Generated money
+from: wallet1.dat+mempool1.dat
+to: wallet1.dat+mempool1.dat
+amount: 520
+---15
+timestamp: now
+transaction: Transfer money
+from: wallet6.dat+mempool6.dat
+to: wallet3.dat+mempool3.dat
+amount: 193
+---16
+timestamp: now
+transaction: Generated money
+from: wallet1.dat+mempool1.dat
+to: wallet1.dat+mempool1.dat
+amount: 517
+---17
+timestamp: now
+transaction: Transfer money
+from: wallet1.dat+mempool1.dat
+to: wallet7.dat+mempool7.dat
+amount: 10000
+---18
+timestamp: now
+transaction: Transfer money
+from: wallet1.dat+mempool1.dat
+to: wallet5.dat+mempool5.dat
+amount: 1000
+---19
+timestamp: now
+transaction: Transfer money
+from: wallet4.dat+mempool4.dat
+to: wallet2.dat+mempool2.dat
+amount: 24
+---20
+timestamp: now
+transaction: Transfer money
+from: wallet6.dat+mempool6.dat
+to: wallet4.dat+mempool4.dat
+amount: 69
+---21
+timestamp: now
+transaction: Transfer money
+from: wallet1.dat+mempool1.dat
+to: wallet8.dat+mempool8.dat
+amount: 1000
+---22
+timestamp: now
+transaction: Transfer money
+from: wallet7.dat+mempool7.dat
+to: wallet2.dat+mempool2.dat
+amount: 169
+---23
+timestamp: now
+transaction: Transfer money
+from: wallet2.dat+mempool2.dat
+to: wallet4.dat+mempool4.dat
+amount: 122
+---24
+timestamp: now
+transaction: Transfer money
+from: wallet1.dat+mempool1.dat
+to: wallet9.dat+mempool9.dat
+amount: 1000
+---25
+timestamp: now
+transaction: Transfer money
+from: wallet1.dat+mempool1.dat
+to: wallet10.dat+mempool0.dat
+amount: 1000
+---26
+timestamp: now
+transaction: Transfer money
+from: wallet2.dat+mempool2.dat
+to: wallet7.dat+mempool7.dat
+amount: 220
+---27
+timestamp: now
+transaction: Transfer money
+from: wallet1.dat+mempool1.dat
+to: wallet11.dat+mempool1.dat
+amount: 1000
+---28
+timestamp: now
+transaction: Generated money
+from: wallet1.dat+mempool1.dat
+to: wallet1.dat+mempool1.dat
+amount: 597
+}
